@@ -1,3 +1,3 @@
 class Rocket{
-    private void blastOff() {System.out.print("bang ");};
+    private void blastOff() {System.out.print("bang ");}
 }
